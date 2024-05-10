@@ -16,5 +16,7 @@ signal processing
 5/ use textures similarities to merge bsdf and cos^2(e) and use  cos^2(E) * ln(pi)
 6/ use signal theory
 
+use prime numbers approcimation to prevent using models. This will also prevent using  database for fake persons. It's more efficient too.
+
 Differential equations ???
 Coming soon.
