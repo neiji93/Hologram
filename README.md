@@ -17,6 +17,7 @@ signal processing
 6/ use signal theory
 
 use prime numbers approcimation to prevent using models. This will also prevent using  database for fake persons. It's more efficient too.
+f(x) = exp(x)+log(x)+x^3 +x^2+x+ sqrt(pi)
 
 Differential equations ???
 Coming soon.
